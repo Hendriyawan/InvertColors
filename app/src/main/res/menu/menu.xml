@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        app:showAsAction="never" />
+        
+    <item
+        android:id="@+id/button_invert_color"
+        android:title="invert colors"
+        android:icon="@drawable/ic_invert_colors_100"
+        app:showAsAction="ifRoom" />
+</menu>
