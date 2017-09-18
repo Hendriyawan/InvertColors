@@ -3,4 +3,4 @@
 Screenshot : <br>
 
 ![alt tag](https://raw.githubusercontent.com/mrSilent0598/InvertColors/master/ss1.png)
-![alt tag](https://raw.githubusercontent.com/mrSilent0598/InvertColors/master.ss2.png)
+![alt tag](https://raw.githubusercontent.com/mrSilent0598/InvertColors/master/ss2.png)
